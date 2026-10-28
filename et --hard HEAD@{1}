@@ -1,0 +1,45 @@
+[33m167845a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mKarthik[m[33m)[m HEAD@{0}: pull origin main: Merge made by the 'ort' strategy.
+[33mc2626c9[m[33m ([m[1;31morigin/Karthik[m[33m)[m HEAD@{1}: commit: fix: minor changes in signal page
+[33m83b66c6[m HEAD@{2}: commit: fix: fixed the motion toast font size
+[33m27d58ce[m HEAD@{3}: commit: fix: when new log saved the log page showing previous data fixed it
+[33m689aa22[m HEAD@{4}: commit: fix: fixed the alerts accordian when clicked go to alerts page,when click show more details coming to alerts page and automatically open the dialogbox, fixed the maintenance accordian, and also renderflow issue in maintenance show deleted data , fixed the maintenance history when i click save in new maintennace log data showing in the show deleted section
+[33mbc90081[m HEAD@{5}: commit: fix: fixed the log hisotry
+[33m5b6207c[m HEAD@{6}: commit (merge): fix :fixed avg resp time text and increased time in alerts page, changed the name to new maintennace log, changing the dilaogbox , fixed the maintenace when come to this via more logs or show more details and go to another page we will go to the landing page
+[33m2bdcd50[m HEAD@{7}: commit: fix : fixing session expire dioinstance
+[33ma2d95c7[m HEAD@{8}: pull origin main: Fast-forward
+[33m740bf09[m HEAD@{9}: commit: fix : fixed asset page animation when coming back for a second showing blank page
+[33m07b208a[m HEAD@{10}: commit: fix: showing all alerts and fixed show ackdata, token expirey fixing, animated the alerts and settings page..
+[33m00a4a30[m HEAD@{11}: commit: fix: showing all alerts, need to fix animatedtoggle switch
+[33m72ac850[m HEAD@{12}: commit: fix: added all the unfiltered alerts
+[33mccddcf6[m HEAD@{13}: commit: fix : getAllalerts fixing right now
+[33mde18d5e[m HEAD@{14}: commit: minor changes
+[33mfab915f[m HEAD@{15}: commit: minor changes
+[33m1c091bf[m HEAD@{16}: commit: dashboard changed
+[33m412c8f8[m HEAD@{17}: commit: minor chnages in dashboard
+[33m007e04f[m HEAD@{18}: commit: fixing alerts page
+[33m0aa7e32[m HEAD@{19}: commit: fixing dioinstance and session expired message not showing when the app is alive,when it close and open showes the toaster
+[33mf65c856[m HEAD@{20}: commit: fixing accordian null errors
+[33mfb9e836[m HEAD@{21}: commit: added graph code in PM and track and edited some parts
+[33m4351182[m HEAD@{22}: commit: fixed message length dialog box in alert paagw
+[33m4767196[m HEAD@{23}: commit: fixed more logs showing in left side
+[33mebeeaba[m HEAD@{24}: commit: show more details fixed right side showing
+[33m3ac3d4d[m HEAD@{25}: commit: increased y axis size and show all alerts enabled and todays alerts text increased
+[33m433eb85[m HEAD@{26}: commit: fixing alerts show all details and more log
+[33m11c5b5b[m HEAD@{27}: commit: minor changes
+[33md12daef[m HEAD@{28}: commit: fixing the session expired toaster
+[33m55bb4fe[m HEAD@{29}: commit: minor changes
+[33ma253293[m HEAD@{30}: commit: minor changes
+[33m415bde1[m HEAD@{31}: commit: fixing dio page
+[33me1a1012[m HEAD@{32}: commit: minor chnages in maintennace
+[33m50388fa[m HEAD@{33}: commit: fixed the renderflow in realtime
+[33m11bdbe8[m HEAD@{34}: commit: fixed the track page header
+[33m20b3c2a[m HEAD@{35}: pull origin main: Fast-forward
+[33mc460c89[m HEAD@{36}: commit: minor changes
+[33ma2a6ac9[m HEAD@{37}: rebase (finish): returning to refs/heads/Karthik
+[33ma2a6ac9[m HEAD@{38}: commit: fixing responsiveness in smaller devices
+[33mcf6cbe1[m HEAD@{39}: pull origin Karthik --rebase (start): checkout cf6cbe14bb0124bf85fed17a7488a5217912958e
+[33me280f90[m HEAD@{40}: rebase (abort): returning to refs/heads/Karthik
+[33mcf6cbe1[m HEAD@{41}: pull origin Karthik --rebase (start): checkout cf6cbe14bb0124bf85fed17a7488a5217912958e
+[33me280f90[m HEAD@{42}: commit: fixing responsiveness in smaller devices
+[33m76644fb[m HEAD@{43}: checkout: moving from main to Karthik
+[33m275ee85[m[33m ([m[1;31morigin/Alok[m[33m, [m[1;32mmain[m[33m)[m HEAD@{44}: clone: from https://github.com/Sunlux-Technovations/rdpms_tablet.git
